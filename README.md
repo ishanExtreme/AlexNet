@@ -63,6 +63,6 @@ Trained on cifar-10 dataset
  </a>
  
  
- ### Try it yourself on different images on google colab or on local system by using checkpoint.zip and <a href='https://github.com/ishanExtreme/AlexNet-Visualization/blob/master/AlexNet.ipynb'>AlexNet.ipynb</a> in the repository
+ ### Try it yourself on different images on google colab or on local system by using <a href='https://drive.google.com/drive/folders/1rmU5-bfKstepFpws0ztslOX9BB60m0-7?usp=sharing'>checkpoint</a> and <a href='https://github.com/ishanExtreme/AlexNet-Visualization/blob/master/AlexNet.ipynb'>AlexNet.ipynb</a> in the repository
 
 
