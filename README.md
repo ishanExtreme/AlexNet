@@ -8,7 +8,7 @@
 
 ## Architecture
 
-<a href='http://yann.lecun.com/exdb/publis/pdf/lecun-98.pdf'>Official Paper</a>
+<a href='https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks'>Official Paper</a>
 
 <p align="center">
   <a>
@@ -19,9 +19,9 @@
   
 ## Model Summary
 
-Trained on mnist data
+Trained on cifar-10 dataset
 #### Performance
-  loss: 0.0189 - accuracy: 0.9938 - val_loss: 0.0562 - val_accuracy: 0.9868
+  loss: 0.5992 - accuracy: 0.8075 - val_loss: 1.3247 - val_accuracy: 0.7012(*Trained for 18 epochs*)
 #### Summary
   <a>
     <img src="./summary.png" width="400" height ="500"/>
@@ -34,26 +34,31 @@ Trained on mnist data
     <img src="./orig.png" width="300" height ="300"/>
  </a>
  
-#### Layer-1(conv2d)
+#### Layer-1(conv2D)
+*Below are first five filters of Layer-1 resized to (224,224) pixels*
  <a>
     <img src="./layer_1.png" width="350" height ="500"/>
  </a>
  
- #### Layer-2(max_pooling2d)
+#### Layer-4(conv2D)
+*Below are first five filters of Layer-4 resized to (224,224) pixels*
  <a>
-    <img src="./layer_2.png" width="350" height ="500"/>
+    <img src="./layer_4.png" width="350" height ="500"/>
  </a>
  
- #### Layer-3(conv2d_1)
+ #### Layer-7(conv2D)
+ *Below are random five filters of Layer-7 resized to (224,224) pixels*
+ <a>
+    <img src="./layer_7.png" width="350" height ="500"/>
+ </a>
+ 
+ #### Layer-11(conv2D)
+ *Below are first five filters of Layer-11 resized to (224,224) pixels*
   <a>
-    <img src="./layer_3.png" width="550" height ="700"/>
+    <img src="./layer_11.png" width="550" height ="700"/>
  </a>
  
- #### Layer-4(max_pooling2d_1)
-  <a>
-    <img src="./layer_4.png" width="550" height ="700"/>
- </a>
  
- ### Try it yourself on different digits on google colab or on local system by using checkpoint.zip and <a href='https://github.com/ishanExtreme/LeNet-5-Visualization/blob/master/LeNet_5.ipynb'>LeNet-5.ipynb</a> in the repository
+ ### Try it yourself on different images on google colab or on local system by using checkpoint.zip and <a href='https://github.com/ishanExtreme/LeNet-5-Visualization/blob/master/LeNet_5.ipynb'>LeNet-5.ipynb</a> in the repository
 
 
