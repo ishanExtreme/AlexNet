@@ -36,24 +36,28 @@ Trained on cifar-10 dataset
  
 #### Layer-1(conv2D)
 *Below are first five filters of Layer-1 resized to (224,224) pixels*
+
  <a>
     <img src="./layer_1.png" width="500" height ="100"/>
  </a>
  
 #### Layer-4(conv2D)
 *Below are first five filters of Layer-4 resized to (224,224) pixels*
+
  <a>
     <img src="./layer_4.png" width="500" height ="100"/>
  </a>
  
  #### Layer-7(conv2D)
  *Below are random five filters of Layer-7 resized to (224,224) pixels*
+ 
  <a>
     <img src="./layer_7.png" width="500" height ="100"/>
  </a>
  
  #### Layer-11(conv2D)
  *Below are first five filters of Layer-11 resized to (224,224) pixels*
+ 
   <a>
     <img src="./layer_11.png" width="500" height ="100"/>
  </a>
