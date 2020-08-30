@@ -63,6 +63,6 @@ Trained on cifar-10 dataset
  </a>
  
  
- ### Try it yourself on different images on google colab or on local system by using checkpoint.zip and <a href='https://github.com/ishanExtreme/LeNet-5-Visualization/blob/master/LeNet_5.ipynb'>LeNet-5.ipynb</a> in the repository
+ ### Try it yourself on different images on google colab or on local system by using checkpoint.zip and <a href='https://github.com/ishanExtreme/AlexNet-Visualization/blob/master/AlexNet.ipynb'>AlexNet.ipynb</a> in the repository
 
 
