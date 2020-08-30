@@ -24,7 +24,7 @@ Trained on cifar-10 dataset
   loss: 0.5992 - accuracy: 0.8075 - val_loss: 1.3247 - val_accuracy: 0.7012(*Trained for 18 epochs*)
 #### Summary
   <a>
-    <img src="./summary.png" width="400" height ="500"/>
+    <img src="./summary.png" width="400" height ="600"/>
   </a>
 
 ## Visualization
@@ -37,25 +37,25 @@ Trained on cifar-10 dataset
 #### Layer-1(conv2D)
 *Below are first five filters of Layer-1 resized to (224,224) pixels*
  <a>
-    <img src="./layer_1.png" width="350" height ="500"/>
+    <img src="./layer_1.png" width="500" height ="100"/>
  </a>
  
 #### Layer-4(conv2D)
 *Below are first five filters of Layer-4 resized to (224,224) pixels*
  <a>
-    <img src="./layer_4.png" width="350" height ="500"/>
+    <img src="./layer_4.png" width="500" height ="100"/>
  </a>
  
  #### Layer-7(conv2D)
  *Below are random five filters of Layer-7 resized to (224,224) pixels*
  <a>
-    <img src="./layer_7.png" width="350" height ="500"/>
+    <img src="./layer_7.png" width="500" height ="100"/>
  </a>
  
  #### Layer-11(conv2D)
  *Below are first five filters of Layer-11 resized to (224,224) pixels*
   <a>
-    <img src="./layer_11.png" width="550" height ="700"/>
+    <img src="./layer_11.png" width="500" height ="100"/>
  </a>
  
  
